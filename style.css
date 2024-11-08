@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+    margin: 0;
+    padding: 150px;
+}
+
+.resume-container{
+    display:flex;
+    background-color:aliceblue;
+    width:80%;
+    margin: 0cap;
+    border-radius: 10px;
+    box-shadow: 20px ;
+
+}
+.left-section{
+    background-color: pink;
+    padding:20px;
+    width:fit-content;
+}
+
+h2 {
+    font-size:larger;
+    padding:2%;
+    color: black;
+    box-shadow: 0 0 15px red;
+}
+.right-section{
+    text-align: center;
+    padding: 50px;
+
+}
+button:hover{
+    background-color:pink;
+}
+button{
+    box-shadow: black;
+    margin-top: 40px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
